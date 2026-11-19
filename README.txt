@@ -1,4 +1,4 @@
-BCS - GROUP COURSEWORK 2
+BCS.
 SACCO Member Account Manager
 
 ***WHAT IT DOES
